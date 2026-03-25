@@ -14,13 +14,13 @@ O arquivo original `dirty_cafe_sales.csv` contém aproximadamente 10.000 registr
 - **Inconsistência Lógica:** Valores de `Total Spent` que não correspondiam à multiplicação de `Quantity` por `Price Per Unit`.
 - **Nomes de Colunas:** Presença de espaços e capitalização inconsistente.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3.11.14** (Ambiente Linux Fedora)
 - **Pandas:** Manipulação e análise de dados.
 - **NumPy:** Suporte para operações matemáticas e valores nulos (NaN).
 
-## 🚀 Pipeline de Limpeza
+##  Etapas da Limpeza
 
 O processo de tratamento segue seis etapas fundamentais:
 
